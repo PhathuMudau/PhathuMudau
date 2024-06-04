@@ -4,7 +4,7 @@
 
 - <b>Learning to Code in Python</b>
   - [100 Days of Code](https://github.com/joshmadakor1/url)
-  - [Machine Learning A-Z](https://github.com/joshmadakor1/url)
+  - [Machine Learning A-Z](https://github.com/PhathuMudau/MachineLearningA-Z)
 
 <h2>📄 Certifications:</h2>
 

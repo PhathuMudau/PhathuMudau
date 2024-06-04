@@ -3,13 +3,13 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Learning to Code in Python</b>
-  - [100 Days of Code](https://github.com/joshmadakor1/url)
+  - [100 Days of Code](https://github.com/PhathuMudau/100DaysOfCode)
   - [Machine Learning A-Z](https://github.com/PhathuMudau/MachineLearningA-Z)
 
 <h2>📄 Certifications:</h2>
 
-- [The Ultimate MySQL Bootcamp](https://github.com/joshmadakor1/url)
-- [Querying Microsoft SQL Server](https://github.com/joshmadakor1/url)
+- [The Ultimate MySQL Bootcamp]()
+- [Querying Microsoft SQL Server]()
 
 <h2> 🤳 Connect with me:</h2>
 
